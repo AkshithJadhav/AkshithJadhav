@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development And Applications  
 - 🌱 I’m currently learning Java,Python,DSA
 - 📫 How to reach me 
-   ->Instagram - @akshith._jadhav
+   ->Instagram - @akshith._jadhav <br>
    ->X - @akshith_jadhav
 
 <!---
