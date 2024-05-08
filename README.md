@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshithJadhav
-- 👀 I’m interested in Web Development And Applications  
-- 🌱 I’m currently learning Java,Python,DSA
+- 👀 I’m interested in App Development   
+- 🌱 I’m currently learning Flutter,Dart,Firebase,Java,Python,
 - 📫 How to reach me 
    ->Instagram - @akshith._jadhav <br>
    ->X - @akshith_jadhav
